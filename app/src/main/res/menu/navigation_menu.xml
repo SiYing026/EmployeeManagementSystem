@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAnnouncement"
+        android:icon="@drawable/ic_announcement"
+        android:title="@string/announcement"/>
+
+    <item
+        android:id="@+id/menuMakeClaims"
+        android:icon="@drawable/ic_claims"
+        android:title="@string/makeclaims"/>
+
+    <item
+        android:id="@+id/menuClaimsHistory"
+        android:icon="@drawable/ic_claimshistory"
+        android:title="@string/claimshistory"/>
+
+    <item
+        android:id="@+id/menuLeavesApply"
+        android:icon="@drawable/ic_leaves"
+        android:title="@string/leavesapply"/>
+
+    <item
+        android:id="@+id/menuLeavesHistory"
+        android:icon="@drawable/ic_leaveshistory"
+        android:title="@string/leaveshistory"/>
+
+    <item android:title="@string/others">
+        <menu>
+
+            <item
+                android:id="@+id/menuMyProfile"
+                android:icon="@drawable/ic_profile"
+                android:title="@string/myprofile"/>
+
+            <item
+                android:id="@+id/menuLogout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/logout"/>
+
+        </menu>
+    </item>
+
+</menu>

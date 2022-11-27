@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Update Announcements Panel"
+        android:layout_marginTop="20dp"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#000"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Title"
+        android:layout_gravity="center"
+        android:id="@+id/edit_title"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Content"
+        android:layout_gravity="center"
+        android:id="@+id/edit_content"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:id="@+id/edit_btn"
+        android:textColor="#fff"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"/>
+
+</LinearLayout>

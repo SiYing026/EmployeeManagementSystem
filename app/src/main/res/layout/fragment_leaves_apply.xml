@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/f_background"
+    tools:context=".LeavesApplyFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView_start"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Leave starting date :"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+
+        <EditText
+            android:id="@+id/editText_start"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter date..." />
+
+        <TextView
+            android:id="@+id/textView_end"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Last day of leave : "
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/editText_end"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter date..."
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/textView_day"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Number of days : "
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/editText_day"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter days..." />
+
+        <TextView
+            android:id="@+id/textView_type"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Leave type : "
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/editText_type"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter type..." />
+
+        <TextView
+            android:id="@+id/textView_reason"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Reason of leave application : "
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/editText_reason"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter reason..." />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/btn_submit"
+            android:textSize="20sp"
+            android:background="@drawable/gradient_btn"
+            app:backgroundTint="@null"
+            android:text="Submit"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</FrameLayout>

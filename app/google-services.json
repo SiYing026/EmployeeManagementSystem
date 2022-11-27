@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "388533607396",
+    "firebase_url": "https://employeemanagement-689ec-default-rtdb.firebaseio.com",
+    "project_id": "employeemanagement-689ec",
+    "storage_bucket": "employeemanagement-689ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388533607396:android:dc091f438e11fdaf86c5f1",
+        "android_client_info": {
+          "package_name": "com.example.employeeclaim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388533607396-rp4fhk8k32fufi5gjl0sdecbunh1a5bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4DQ8SZl1MtytsXGfYAu9AhzlVSuapyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388533607396-rp4fhk8k32fufi5gjl0sdecbunh1a5bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388533607396:android:891dc8c301e6078886c5f1",
+        "android_client_info": {
+          "package_name": "com.example.employeemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388533607396-rp4fhk8k32fufi5gjl0sdecbunh1a5bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4DQ8SZl1MtytsXGfYAu9AhzlVSuapyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388533607396-rp4fhk8k32fufi5gjl0sdecbunh1a5bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388533607396:android:89b7b386bfe5198486c5f1",
+        "android_client_info": {
+          "package_name": "com.example.test4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388533607396-rp4fhk8k32fufi5gjl0sdecbunh1a5bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4DQ8SZl1MtytsXGfYAu9AhzlVSuapyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388533607396-rp4fhk8k32fufi5gjl0sdecbunh1a5bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

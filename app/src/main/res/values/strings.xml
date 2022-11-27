@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EmployeeManagementSystem</string>
+    <string name="announcement">Announcement</string>
+    <string name="makeclaims">Make Claims</string>
+    <string name="claimshistory">Claims History</string>
+    <string name="leavesapply">Leaves Apply</string>
+    <string name="leaveshistory">Leaves History</string>
+    <string name="others">Others</string>
+    <string name="myattendances">My Attendances</string>
+    <string name="myprofile">My Profile</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="editAnnoucement">Edit Announcement</string>
+    <string name="employeeLeave">Employee Leaves</string>
+    <string name="employeeClaim">Employee Claims</string>
+    <string name="AREmployee">Add / Remove Employee</string>
+    <string name="claimTitle">Claim Title</string>
+    <string name="claimContent">Claim Content</string>
+    <string name="admindashboard">Admin Dashboard</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Dashboard"
+    android:background="@drawable/a_background">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/admindashboard"
+        android:layout_marginTop="-20dp"
+        android:layout_marginBottom="60dp"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:id="@+id/btn_editAnnouncement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="editAnnouncement"
+        android:text="@string/editAnnoucement"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:id="@+id/btn_employeeLeave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/employeeLeave"
+        android:onClick="employeeLeave"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:id="@+id/btn_employeeClaim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/employeeClaim"
+        android:onClick="employeeClaim"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:id="@+id/btn_AREmployee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/AREmployee"
+        android:layout_marginTop="30dp"
+        android:onClick="AREmployee"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"/>
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/logout"
+        android:onClick="Logout"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

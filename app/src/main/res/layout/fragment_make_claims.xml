@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/f_background"
+    tools:context=".MakeClaimsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_claimForTitle"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Claim for:"
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/et_claimFor"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Reason..."/>
+
+        <TextView
+            android:id="@+id/tv_shortMessageTitle"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Short Message: "
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/et_shortMessage"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Description..." />
+
+        <TextView
+            android:id="@+id/tv_amount"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Amount: "
+            android:textStyle="bold"
+            android:textSize="20sp"/>
+
+        <EditText
+            android:id="@+id/et_amount"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Amount..." />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:id="@+id/btn_submit"
+            android:textSize="20sp"
+            android:background="@drawable/gradient_btn"
+            app:backgroundTint="@null"
+            android:text="Submit"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</FrameLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".AddAnnouncement"
+    android:background="@drawable/a_background">
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_addTitle"
+        android:textSize="20sp"
+        android:hint="Title"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_addContent"
+        android:textSize="20sp"
+        android:hint="Content"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:id="@+id/btn_add"
+        android:background="@drawable/gradient_btn"
+        android:textSize="20sp"
+        app:backgroundTint="@null"
+        android:text="Add"/>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

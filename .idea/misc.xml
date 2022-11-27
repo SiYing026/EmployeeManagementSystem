@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/drawable-v24/gradient_btn.xml" value="0.228" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/drawable/ic_circlebtn.xml" value="0.109" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/drawable/ic_edit.xml" value="0.1235" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/drawable/ic_logout.xml" value="0.167" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/drawable/ic_profile.xml" value="0.153" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_add_announcement.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_add_remove_employee.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_approve_reject_leave.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_edit_announcement.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_employee_claim.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_single_row.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/dialog_announcement.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_announcement.xml" value="0.16" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_claims_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_leaves_apply.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_leaves_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_logout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_make_claims.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_my_attendences.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/fragment_my_profile.xml" value="0.264" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/leaves_single_row.xml" value="0.264" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/list_announcement.xml" value="0.2" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/list_claim_history.xml" value="0.264" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/list_emp_leaves.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/list_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/list_show_announcement.xml" value="0.264" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_announcement.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_claims_history.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_leaves_apply.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_leaves_history.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_make_claims.xml" value="0.1" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_my_attendences.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/fragment_my_profile.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/layout/layout_navigation_header.xml" value="0.12462006079027356" />
+        <entry key="..\:/Users/siyin/AndroidStudioProjects/EmployeeManagementSystem2/app/src/main/res/menu/navigation_menu.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

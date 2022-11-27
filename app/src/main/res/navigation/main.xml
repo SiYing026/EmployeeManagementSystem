@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/menuAnnouncement">
+
+    <fragment
+        android:id="@+id/menuAnnouncement"
+        android:name="com.example.employeemanagementsystem.AnnouncementFragment"
+        android:label="Announcement"
+        tools:layout="@layout/fragment_announcement" />
+    <fragment
+        android:id="@+id/menuClaimsHistory"
+        android:name="com.example.employeemanagementsystem.ClaimsHistoryFragment"
+        android:label="Claims History"
+        tools:layout="@layout/fragment_claims_history" />
+    <fragment
+        android:id="@+id/menuLeavesApply"
+        android:name="com.example.employeemanagementsystem.LeavesApplyFragment"
+        android:label="Leaves Apply"
+        tools:layout="@layout/fragment_leaves_apply" />
+    <fragment
+        android:id="@+id/menuLeavesHistory"
+        android:name="com.example.employeemanagementsystem.LeavesHistoryFragment"
+        android:label="Leaves History"
+        tools:layout="@layout/fragment_leaves_history" />
+    <fragment
+        android:id="@+id/menuMakeClaims"
+        android:name="com.example.employeemanagementsystem.MakeClaimsFragment"
+        android:label="Make Claims"
+        tools:layout="@layout/fragment_make_claims" />
+    <fragment
+        android:id="@+id/menuMyProfile"
+        android:name="com.example.employeemanagementsystem.MyProfileFragment"
+        android:label="My Profile"
+        tools:layout="@layout/fragment_my_profile" />
+    <fragment
+        android:id="@+id/menuLogout"
+        android:name="com.example.employeemanagementsystem.Logout"
+        android:label="fragment_logout"
+        tools:layout="@layout/fragment_logout" />
+</navigation>
